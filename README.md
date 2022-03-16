@@ -13,3 +13,4 @@ For example, it can be isolating functions and write tests for these. The purpos
 Finding problems and defects at this stage is important since they may cause delays and additional costs due to defect identification and correction later in the project.
 
 
+![image](https://user-images.githubusercontent.com/85803918/158681702-7394c78c-f46e-49f4-8f5d-7563f80f707f.png)
