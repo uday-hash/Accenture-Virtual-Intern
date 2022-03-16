@@ -11,3 +11,4 @@ Unit tests are implemented during the coding phase, by developers, by isolating 
 For example, it can be isolating functions and write tests for these. The purpose of this is to make sure they work as intended. 
 
 Finding problems and defects at this stage is important since they may cause delays and additional costs due to defect identification and correction later in the project.
+[ACC_intern.pdf](https://github.com/uday-hash/Accenture-Virtual-Intern/files/8271814/ACC_intern.pdf)
