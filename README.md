@@ -1,6 +1,9 @@
 # Accenture-Virtual-Intern
 Developer Program(Accenture Nordic)
 
+![mermaid-diagram-20220317030702](https://user-images.githubusercontent.com/85803918/158695357-4b42fee8-ccee-4470-9014-82d81a255734.svg)
+
+
 Unit testing
 Solving problems and implement tests for small code units
 
